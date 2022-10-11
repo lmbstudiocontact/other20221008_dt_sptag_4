@@ -1,0 +1,79 @@
+{
+  "id_sptag": "1707936832",
+  "index_page": 0,
+  "name_cl_sptag": "Nox Wakfu",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1648099417",
+  "hc_lt_nortag": "-1347611820",
+  "hc_lt_sptag": "459299012",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "832542011",
+      "hc_lt_id_sptag": "-660737081",
+      "id_img": "Wakfu_547248_crop2608_2123943583",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifj7bmM4nlnrEYQbK1SppRBlCZbqIygN6sZOZE1o6cIspVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifj7bmM4nlnrEYQbK1SppRBvlL89qFLE6/VWXur6kRlEpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1378388009"
+      ],
+      "lt_id_sptag": [
+        "1707936832"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "832542011",
+      "hc_lt_id_sptag": "-660737081",
+      "id_img": "Wakfu_941183_crop2608_-167157353",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif49kpwNuh+r/blFiw8Are+SWiEsktz9D9v+FQoALFyL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif49kpwNuh+r/blFiw8Are+6wpYSOYP7qp0sRscTLpZ5ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1378388009"
+      ],
+      "lt_id_sptag": [
+        "1707936832"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1378388009",
+      "name_cl_nortag": "Wakfu",
+      "total_img": 5,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1707936832",
+      "name_cl_sptag": "Nox Wakfu",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

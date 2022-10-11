@@ -1,0 +1,173 @@
+{
+  "id_sptag": "1644259607",
+  "index_page": 0,
+  "name_cl_sptag": "Oktavia von Seckendorff",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1296515603",
+  "hc_lt_nortag": "1730056347",
+  "hc_lt_sptag": "-970370846",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-962447637",
+      "hc_lt_id_sptag": "-394568474",
+      "id_img": "PuellaMagiMadokaMagica_360186_crop2608_1090680499",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifICHpfzsbfg1U10ky1TmpfnvmpjqNo0SMnoBLoRDy2KJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifICHpfzsbfg1U10ky1Tmpf6368dP3+q/sL/BCLkiq7upVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1823434899",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1257409425",
+        "-2017515920",
+        "641041541",
+        "1545739930",
+        "1037188654",
+        "-2024578405",
+        "-1230434216",
+        "-259737831",
+        "1755521698",
+        "1644259607",
+        "-1866523531",
+        "376240968",
+        "-1450260536",
+        "1813151526",
+        "1078827483",
+        "-343568313",
+        "-1358769180"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1823434899",
+      "name_cl_nortag": "Puella Magi Madoka Magica",
+      "total_img": 308,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-259737831",
+      "name_cl_sptag": "Charlotte Puella Magi Madoka Magica",
+      "name_parent": "Anime",
+      "total": 29
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "1755521698",
+      "name_cl_sptag": "Girls Eyes Yellow",
+      "name_parent": "Anime",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-2017515920",
+      "name_cl_sptag": "Girls Sharp Canine Tooth",
+      "name_parent": "Anime",
+      "total": 3202
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "1037188654",
+      "name_cl_sptag": "Homura Akemi",
+      "name_parent": "Anime",
+      "total": 230
+    },
+    {
+      "id_sptag": "-2024578405",
+      "name_cl_sptag": "Kyoko Sakura",
+      "name_parent": "Anime",
+      "total": 176
+    },
+    {
+      "id_sptag": "-1866523531",
+      "name_cl_sptag": "Kyuubey Puella Magi Madoka Magica",
+      "name_parent": "Anime",
+      "total": 43
+    },
+    {
+      "id_sptag": "641041541",
+      "name_cl_sptag": "Madoka Kaname",
+      "name_parent": "Anime",
+      "total": 232
+    },
+    {
+      "id_sptag": "1257409425",
+      "name_cl_sptag": "Mami Tomoe",
+      "name_parent": "Anime",
+      "total": 179
+    },
+    {
+      "id_sptag": "1644259607",
+      "name_cl_sptag": "Oktavia von Seckendorff",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-343568313",
+      "name_cl_sptag": "Sayaka Miki",
+      "name_parent": "Anime",
+      "total": 179
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id_sptag": "-1669227998",
+  "index_page": 0,
+  "name_cl_sptag": "Natsume Shinonome",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1674407216",
+  "hc_lt_nortag": "1205529446",
+  "hc_lt_sptag": "286527921",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "568717158",
+      "hc_lt_id_sptag": "1648332460",
+      "id_img": "ZannennaOretachinoSeishunJijou_849099_crop2608_1371100639",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiem3Tij+WCSHIEc4QmGxYMGodvr7RSPPTGiptjuhxxz2JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiem3Tij+WCSHIEc4QmGxYMGVzQEsx0YBRdys4bwN2TB2pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1624881538",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1669227998",
+        "-729883027",
+        "-353024394",
+        "376240968",
+        "1541647243",
+        "-1353196196",
+        "-1165766878",
+        "1002554358",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "568717158",
+      "hc_lt_id_sptag": "2143097027",
+      "id_img": "ZannennaOretachinoSeishunJijou_849099_crop2608_1371100640",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/b4pMsIkmwlIYDMblZNE2rHN3e9kqWRBfz57OHZUxnJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/b4pMsIkmwlIYDMblZNE2T72n/LEndQf3uLZVrRLgoJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1624881538",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1937610099",
+        "-1669227998",
+        "1755521698",
+        "-353024394",
+        "376240968",
+        "-1686571485",
+        "1541647243",
+        "-1823594757",
+        "1002554358",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "568717158",
+      "hc_lt_id_sptag": "-1719361282",
+      "id_img": "ZannennaOretachinoSeishunJijou_848028_crop2608_1342261990",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWvjr3UTrO/PTFkbg5sbmo8TDUyouWZsILst5/smuCrpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWvjr3UTrO/PTFkbg5sbmocfNPYgivXZxF/rT4QyPPwJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1624881538",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1937610099",
+        "-1669227998",
+        "1755521698",
+        "-353024394",
+        "1541647243",
+        "-1823594757",
+        "1078827483",
+        "491824726"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1624881538",
+      "name_cl_nortag": "Zannen na Oretachi no Seishun Jijou",
+      "total_img": 9,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-729883027",
+      "name_cl_sptag": "Girls Eyes Violet",
+      "name_parent": "Anime",
+      "total": 6410
+    },
+    {
+      "id_sptag": "1755521698",
+      "name_cl_sptag": "Girls Eyes Yellow",
+      "name_parent": "Anime",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1937610099",
+      "name_cl_sptag": "Girls Hair Grey",
+      "name_parent": "Anime",
+      "total": 9239
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1669227998",
+      "name_cl_sptag": "Natsume Shinonome",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "1002554358",
+      "name_cl_sptag": "Rinne Sumeragi",
+      "name_parent": "Anime",
+      "total": 5
+    }
+  ]
+}

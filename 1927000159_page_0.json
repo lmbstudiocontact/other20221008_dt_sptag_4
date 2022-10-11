@@ -1,0 +1,223 @@
+{
+  "id_sptag": "1927000159",
+  "index_page": 0,
+  "name_cl_sptag": "Mine Akame Ga Kill",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "843906492",
+  "hc_lt_nortag": "144279304",
+  "hc_lt_sptag": "1849138453",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1286503240",
+      "hc_lt_id_sptag": "2146769134",
+      "id_img": "AkamegaKill_592276_crop2608_-897181344",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0TFETlVgloH5e7jHjaOX+913+35/T1LTXnTUOBHFtkpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0TFETlVgloH5e7jHjaOX+iG4UDpKyNUascnmc5B94QZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "1315099564"
+      ],
+      "lt_id_sptag": [
+        "-122062126",
+        "1927000159",
+        "177416588",
+        "-1287948517",
+        "-464433724",
+        "218089402",
+        "489705754",
+        "117222074",
+        "-353024394",
+        "63311442",
+        "-1450260536",
+        "-260062140",
+        "-1455727370",
+        "1078827483",
+        "-1456680780",
+        "2137211747",
+        "26918368"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "720336935",
+      "hc_lt_id_sptag": "-918453446",
+      "id_img": "AkamegaKill_655700_crop2608_-296974850",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJO3UxZfwiVd/HSCEs/rBN7J/o5WhzL4h9S1iw5GdxL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJO3UxZfwiVd/HSCEs/rBN+hsJgdPxlmoApLbqw0IhsZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1575827177",
+        "1315099564"
+      ],
+      "lt_id_sptag": [
+        "1927000159",
+        "-1287948517"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1194732312",
+      "hc_lt_id_sptag": "-918453446",
+      "id_img": "AkamegaKill_655700_crop2608_1164382599",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienA4G2ycxFKXkKGy2+Z+JRn491J2otyZZ89gZdTHZ+1pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienA4G2ycxFKXkKGy2+Z+JRRTSxUYvXwYUHxv9DVaWPEpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "1315099564"
+      ],
+      "lt_id_sptag": [
+        "1927000159",
+        "-1287948517"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1315099564",
+      "name_cl_nortag": "Akame ga Kill",
+      "total_img": 77,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1575827177",
+      "name_cl_nortag": "Unrefined",
+      "total_img": 824,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1287948517",
+      "name_cl_sptag": "Akame Akame Ga Kill",
+      "name_parent": "Anime",
+      "total": 46
+    },
+    {
+      "id_sptag": "-464433724",
+      "name_cl_sptag": "Belt",
+      "name_parent": "Anime",
+      "total": 49
+    },
+    {
+      "id_sptag": "2137211747",
+      "name_cl_sptag": "Blonde",
+      "name_parent": "Anime",
+      "total": 908
+    },
+    {
+      "id_sptag": "218089402",
+      "name_cl_sptag": "Boots",
+      "name_parent": "Anime",
+      "total": 51
+    },
+    {
+      "id_sptag": "-122062126",
+      "name_cl_sptag": "Esdeath Akame Ga Kill",
+      "name_parent": "Anime",
+      "total": 12
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "63311442",
+      "name_cl_sptag": "Glove",
+      "name_parent": "Anime",
+      "total": 164
+    },
+    {
+      "id_sptag": "1927000159",
+      "name_cl_sptag": "Mine Akame Ga Kill",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "177416588",
+      "name_cl_sptag": "Skirt",
+      "name_parent": "Anime",
+      "total": 368
+    },
+    {
+      "id_sptag": "489705754",
+      "name_cl_sptag": "Sky",
+      "name_parent": "Anime",
+      "total": 168
+    },
+    {
+      "id_sptag": "-1455727370",
+      "name_cl_sptag": "Sword",
+      "name_parent": "Anime",
+      "total": 198
+    },
+    {
+      "id_sptag": "26918368",
+      "name_cl_sptag": "Thigh Highs",
+      "name_parent": "Anime",
+      "total": 211
+    },
+    {
+      "id_sptag": "-1456680780",
+      "name_cl_sptag": "Twintails",
+      "name_parent": "Anime",
+      "total": 386
+    }
+  ]
+}

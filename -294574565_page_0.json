@@ -1,0 +1,101 @@
+{
+  "id_sptag": "-294574565",
+  "index_page": 0,
+  "name_cl_sptag": "Naofumi Iwatani",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1934054334",
+  "hc_lt_nortag": "2129191015",
+  "hc_lt_sptag": "-503557908",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1436027800",
+      "hc_lt_id_sptag": "-51343835",
+      "id_img": "TheRisingoftheShieldHero_952042_crop2608_1727496369",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVZt79KBl+L2bKjzvGD0sIe+3ufsEPzj0xEroq30TleJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVZt79KBl+L2bKjzvGD0sIjJz0I/iDzHpwCDBQC29OAJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1576042339",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "-294574565",
+        "-1455727370",
+        "-929099358",
+        "-1080802995"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1436027800",
+      "hc_lt_id_sptag": "365890686",
+      "id_img": "TheRisingoftheShieldHero_971531_crop2608_-116023797",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3HON6MED2wYgoAFc84581zKHO5jmck8VV7vAwi5kho5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3HON6MED2wYgoAFc84581Zs+/u6plIsdzAc070a/K1pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1576042339",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "-294574565",
+        "-1080802995"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1576042339",
+      "name_cl_nortag": "The Rising of the Shield Hero",
+      "total_img": 36,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-294574565",
+      "name_cl_sptag": "Naofumi Iwatani",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-1080802995",
+      "name_cl_sptag": "Raphtalia The Rising of the Shield Hero",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-929099358",
+      "name_cl_sptag": "Shield",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "-1455727370",
+      "name_cl_sptag": "Sword",
+      "name_parent": "Anime",
+      "total": 198
+    }
+  ]
+}

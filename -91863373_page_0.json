@@ -1,0 +1,217 @@
+{
+  "id_sptag": "-91863373",
+  "index_page": 0,
+  "name_cl_sptag": "Quincy Warship Girls",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1481935691",
+  "hc_lt_nortag": "1662257160",
+  "hc_lt_sptag": "-1396864308",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "815308500",
+      "hc_lt_id_sptag": "-1925233679",
+      "id_img": "WarshipGirls_840776_crop2608_1451653934",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+dwe2wZ7SRSnVmbNDKqt8a+WCZm+ti1ptHGs7std4pJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+dwe2wZ7SRSnVmbNDKqt8en88eSTnZoCRK6wP0Kk2m5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-830581836"
+      ],
+      "lt_id_sptag": [
+        "-2017515920",
+        "1545739930",
+        "117222074",
+        "-353024394",
+        "1568092380",
+        "-1450260536",
+        "-1882261033",
+        "1078827483",
+        "-91863373"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "815308500",
+      "hc_lt_id_sptag": "-1782262213",
+      "id_img": "WarshipGirls_740002_crop2608_-525244419",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIj6uLUQSAHg8GE8FUkL6anoClBsk2MBBlGX08tZ5spJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIj6uLUQSAHg8GE8FUkL6aGHlgU34UH/TZGjZNiAWMKZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-830581836"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-1543681642",
+        "-353024394",
+        "-1450260536",
+        "491824726",
+        "-91863373"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "815308500",
+      "hc_lt_id_sptag": "-124232327",
+      "id_img": "WarshipGirls_740015_crop2608_1423017869",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfZECeUs7eTgIX8D7oM8pbitGvWc4U+NSHhlTdofde65Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfZECeUs7eTgIX8D7oM8pbjUJvGL4vutegTe8yE27dX5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-830581836"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "1545739930",
+        "750914149",
+        "117222074",
+        "-353024394",
+        "-1686571485",
+        "-1450260536",
+        "-260062140",
+        "-1823594757",
+        "1078827483",
+        "-91863373",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-830581836",
+      "name_cl_nortag": "Warship Girls",
+      "total_img": 29,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1543681642",
+      "name_cl_sptag": "Face",
+      "name_parent": "Anime",
+      "total": 58
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "1568092380",
+      "name_cl_sptag": "Girls Eyes Orange",
+      "name_parent": "Anime",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1915687819",
+      "name_cl_sptag": "Girls Eyes Red",
+      "name_parent": "Anime",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "750914149",
+      "name_cl_sptag": "Girls Kimono Yukata Cheongsam",
+      "name_parent": "Anime",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-2017515920",
+      "name_cl_sptag": "Girls Sharp Canine Tooth",
+      "name_parent": "Anime",
+      "total": 3202
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-1882261033",
+      "name_cl_sptag": "Girls Witch",
+      "name_parent": "Anime",
+      "total": 8338
+    },
+    {
+      "id_sptag": "-91863373",
+      "name_cl_sptag": "Quincy Warship Girls",
+      "name_parent": "Anime",
+      "total": 3
+    }
+  ]
+}

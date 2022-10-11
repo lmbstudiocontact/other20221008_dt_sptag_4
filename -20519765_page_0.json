@@ -1,0 +1,264 @@
+{
+  "id_sptag": "-20519765",
+  "index_page": 0,
+  "name_cl_sptag": "Ruru Amane",
+  "name_parent": "Anime",
+  "total_img": 5,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1869359826",
+  "hc_lt_nortag": "-209909561",
+  "hc_lt_sptag": "-1817363288",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-250750549",
+      "hc_lt_id_sptag": "-1671097179",
+      "id_img": "77SevensAndTwoStarsMeetAgain_213997_crop2608_-825996383",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidX5NuOA/bVBePG2Tzo7XmHhlKjkt/2X09QbTXeAylVsJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidX5NuOA/bVBePG2Tzo7XmHPKoBHLQ/ZygRCbFjvkCUYZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "769555542",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "1541647243",
+        "1508952095",
+        "-1823594757",
+        "1078827483",
+        "-20519765",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-250750549",
+      "hc_lt_id_sptag": "-273641792",
+      "id_img": "77SevensAndTwoStarsMeetAgain_137419_crop2608_299969261",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaDAT9/eKO5crR8t583Alw9cMURDoFh4oqc+k/ud1w/JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaDAT9/eKO5crR8t583Alw27s5kRQpCVVEzOL2RX1pEZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "769555542",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "376240968",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "-20519765"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-250750549",
+      "hc_lt_id_sptag": "1563215905",
+      "id_img": "77SevensAndTwoStarsMeetAgain_792685_crop2608_-111210220",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF6XLmb5HQnzXZw3cso4imBAUmqrJtgTeAPhzhKSetj5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF6XLmb5HQnzXZw3cso4imQ40J6D27tAlAghKMQ2T2iZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "769555542",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1038892260",
+        "177416588",
+        "29436897",
+        "1913692055",
+        "1541647243",
+        "-1823594757",
+        "1078827483",
+        "-20519765",
+        "-1353313151",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-250750549",
+      "hc_lt_id_sptag": "1169094574",
+      "id_img": "77SevensAndTwoStarsMeetAgain_137424_crop2608_40346899",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccTMgqec4uAxqfFlMD66oLM2C/aBiqBIfatGD7MJ+cnpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccTMgqec4uAxqfFlMD66oL8RuBt5P3R2ISKH+yF4U8GpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "769555542",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "1541647243",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "-20519765"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-250750549",
+      "hc_lt_id_sptag": "2125461499",
+      "id_img": "77SevensAndTwoStarsMeetAgain_137410_crop2608_2145293436",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAaSYbQXrrmFYt4CzPT+ogYp2XfI7Gi4w6OL/QjgG0p5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAaSYbQXrrmFYt4CzPT+ogJVKvSiaueFc9qf63q29rh5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "769555542",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "-260062140",
+        "-1823594757",
+        "1078827483",
+        "-20519765"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "769555542",
+      "name_cl_nortag": "77 Sevens And Two Stars Meet Again",
+      "total_img": 43,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1913692055",
+      "name_cl_sptag": "bow Clothing",
+      "name_parent": "Anime",
+      "total": 452
+    },
+    {
+      "id_sptag": "-1038892260",
+      "name_cl_sptag": "Feather",
+      "name_parent": "Anime",
+      "total": 26
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1508952095",
+      "name_cl_sptag": "Girls Water Rain",
+      "name_parent": "Anime",
+      "total": 2954
+    },
+    {
+      "id_sptag": "-20519765",
+      "name_cl_sptag": "Ruru Amane",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "29436897",
+      "name_cl_sptag": "School Uniform",
+      "name_parent": "Anime",
+      "total": 467
+    },
+    {
+      "id_sptag": "177416588",
+      "name_cl_sptag": "Skirt",
+      "name_parent": "Anime",
+      "total": 368
+    },
+    {
+      "id_sptag": "-1353313151",
+      "name_cl_sptag": "Wings",
+      "name_parent": "Anime",
+      "total": 124
+    }
+  ]
+}

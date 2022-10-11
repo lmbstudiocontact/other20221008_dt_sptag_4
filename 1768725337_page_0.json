@@ -1,0 +1,68 @@
+{
+  "id_sptag": "1768725337",
+  "index_page": 0,
+  "name_cl_sptag": "Ryo Akizuki",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-809010004",
+  "hc_lt_nortag": "1633941465",
+  "hc_lt_sptag": "102026431",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1619797159",
+      "hc_lt_id_sptag": "-2032741909",
+      "id_img": "TheiDOLMSTER_620634_crop2608_-243921406",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvMTbCWcJ6idCmNKhpoASKCAzBxMHj4GmKIXEOXLK825Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvMTbCWcJ6idCmNKhpoASKd4sxppfQZyprMSJIAfgeoJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "1292828749"
+      ],
+      "lt_id_sptag": [
+        "-391559864",
+        "1768725337"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1292828749",
+      "name_cl_nortag": "The iDOLMSTER",
+      "total_img": 201,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-391559864",
+      "name_cl_sptag": "Makoto Kikuchi",
+      "name_parent": "Anime",
+      "total": 30
+    },
+    {
+      "id_sptag": "1768725337",
+      "name_cl_sptag": "Ryo Akizuki",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

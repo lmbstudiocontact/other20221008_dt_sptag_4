@@ -1,0 +1,68 @@
+{
+  "id_sptag": "978219799",
+  "index_page": 0,
+  "name_cl_sptag": "Otto Suwen",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "2007363172",
+  "hc_lt_nortag": "2004229154",
+  "hc_lt_sptag": "-863583871",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "493787276",
+      "hc_lt_id_sptag": "1495964622",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_811311_crop2608_112881729",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNm5VKBi0xFDq176l3AkQNQksJh8fKdXtmV+Hwf3B4qJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNm5VKBi0xFDq176l3AkQNvrQk16/ZWNAYtSDgsPzSVJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-274114340"
+      ],
+      "lt_id_sptag": [
+        "978219799",
+        "-213893890"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-274114340",
+      "name_cl_nortag": "ReZERO Starting Life in Another World",
+      "total_img": 350,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "978219799",
+      "name_cl_sptag": "Otto Suwen",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-213893890",
+      "name_cl_sptag": "Subaru Natsuki",
+      "name_parent": "Anime",
+      "total": 45
+    }
+  ]
+}

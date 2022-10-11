@@ -1,0 +1,374 @@
+{
+  "id_sptag": "1724618114",
+  "index_page": 0,
+  "name_cl_sptag": "Minimalist",
+  "name_parent": "Anime",
+  "total_img": 6,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1462839753",
+  "hc_lt_nortag": "-1498974083",
+  "hc_lt_sptag": "1946988538",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "588455038",
+      "hc_lt_id_sptag": "74690846",
+      "id_img": "CodeGeass_846123_crop2608_870514387",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifE7ydzwuIxRB7x1BmW8Hr01K/x3eZ58R5k0gL9gxQSYZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifE7ydzwuIxRB7x1BmW8Hr0NBdX2ZSXnDF/bj7bt2s95JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1575827177",
+        "819117513"
+      ],
+      "lt_id_sptag": [
+        "1724618114"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1532413781",
+      "hc_lt_id_sptag": "-64837439",
+      "id_img": "NewGame_831315_crop2608_726886835",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidhPcqUeFWBxx5o8ZCWXsPJi3WNS+odGRrJo/OtRg/XJJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidhPcqUeFWBxx5o8ZCWXsPJOStMWwDBXxaHLXOVCJ7gM5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1031687669",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2043157402",
+        "-817656526",
+        "551617781",
+        "856921544",
+        "-1230434216",
+        "-353024394",
+        "773268115",
+        "376240968",
+        "-67611207",
+        "1300070267",
+        "1813151526",
+        "1724618114",
+        "1141618570",
+        "-1165766878",
+        "1078827483",
+        "491824726",
+        "-1733655591",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "674719956",
+      "hc_lt_id_sptag": "-357454838",
+      "id_img": "KabanerioftheIronFortress_705081_crop2608_1707056335",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOFgw26bsAf2U97TKr9R3ktsCyZ7U1cNFs+RZgk3CUw5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOFgw26bsAf2U97TKr9R3k+dWZIB1ytd3UORDzwDY9P5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2015079244",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "931018525",
+        "1545739930",
+        "-1439560410",
+        "1813151526",
+        "1724618114",
+        "-260062140",
+        "1078827483",
+        "491824726",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1532413781",
+      "hc_lt_id_sptag": "925007770",
+      "id_img": "NewGame_831315_crop2608_-56031264",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidinTa6RfDysf1ZloLRIsYP56fj7SJiy+mhFz/wwrK56JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidinTa6RfDysf1ZloLRIsYPRszm0M2/qEM2SRKm8v6IkJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1031687669",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2043157402",
+        "-817656526",
+        "1545739930",
+        "551617781",
+        "856921544",
+        "-729883027",
+        "-353024394",
+        "773268115",
+        "643795693",
+        "-67611207",
+        "1541647243",
+        "1300070267",
+        "1724618114",
+        "1141618570",
+        "-1165766878",
+        "1078827483",
+        "491824726",
+        "-1733655591",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-717695186",
+      "hc_lt_id_sptag": "-1352664960",
+      "id_img": "Naruto_610056_crop2608_969845724",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1Kvyp0a4Akju0Q7pmgwlzRaEkE4glLcdZcEUUiu65SZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1Kvyp0a4Akju0Q7pmgwlzooeQk4ujSFuDg6ZBz8WG0ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1575827177",
+        "-273690518"
+      ],
+      "lt_id_sptag": [
+        "704054884",
+        "1724618114"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1623780439",
+      "hc_lt_id_sptag": "74690846",
+      "id_img": "DragonBallSuper_849498_crop2608_1035530366",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXQEMygUa1nwNpdLsEPvLWxRE44Hbbo3f1x1K9q5Z0/ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXQEMygUa1nwNpdLsEPvLWWzRretAvevxK0u16FOHEAZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1400320448"
+      ],
+      "lt_id_sptag": [
+        "1724618114"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "819117513",
+      "name_cl_nortag": "Code Geass",
+      "total_img": 153,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1400320448",
+      "name_cl_nortag": "Dragon Ball Super",
+      "total_img": 404,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-2015079244",
+      "name_cl_nortag": "Kabaneri of the Iron Fortress",
+      "total_img": 51,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-273690518",
+      "name_cl_nortag": "Naruto",
+      "total_img": 478,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1031687669",
+      "name_cl_nortag": "New Game",
+      "total_img": 123,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1575827177",
+      "name_cl_nortag": "Unrefined",
+      "total_img": 824,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1141618570",
+      "name_cl_sptag": "Aoba Suzukaze",
+      "name_parent": "Anime",
+      "total": 67
+    },
+    {
+      "id_sptag": "-67611207",
+      "name_cl_sptag": "Blush",
+      "name_parent": "Anime",
+      "total": 893
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "-729883027",
+      "name_cl_sptag": "Girls Eyes Violet",
+      "name_parent": "Anime",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-1439560410",
+      "name_cl_sptag": "Girls Face Masks",
+      "name_parent": "Anime",
+      "total": 1618
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "643795693",
+      "name_cl_sptag": "Girls Hair Violet",
+      "name_parent": "Anime",
+      "total": 2650
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1300070267",
+      "name_cl_sptag": "Hajime Shinoda",
+      "name_parent": "Anime",
+      "total": 11
+    },
+    {
+      "id_sptag": "551617781",
+      "name_cl_sptag": "Hifumi Takimoto",
+      "name_parent": "Anime",
+      "total": 30
+    },
+    {
+      "id_sptag": "773268115",
+      "name_cl_sptag": "Ko Yagami",
+      "name_parent": "Anime",
+      "total": 14
+    },
+    {
+      "id_sptag": "704054884",
+      "name_cl_sptag": "Logo",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "1724618114",
+      "name_cl_sptag": "Minimalist",
+      "name_parent": "Anime",
+      "total": 6
+    },
+    {
+      "id_sptag": "931018525",
+      "name_cl_sptag": "Mumei Kabaneri of the Iron Fortress",
+      "name_parent": "Anime",
+      "total": 45
+    },
+    {
+      "id_sptag": "-817656526",
+      "name_cl_sptag": "Nene Sakura",
+      "name_parent": "Anime",
+      "total": 7
+    },
+    {
+      "id_sptag": "-1733655591",
+      "name_cl_sptag": "Rin Toyama",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "856921544",
+      "name_cl_sptag": "Wink",
+      "name_parent": "Anime",
+      "total": 132
+    },
+    {
+      "id_sptag": "2043157402",
+      "name_cl_sptag": "Yun Iijima",
+      "name_parent": "Anime",
+      "total": 11
+    }
+  ]
+}

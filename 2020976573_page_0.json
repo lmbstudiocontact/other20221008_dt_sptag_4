@@ -1,0 +1,156 @@
+{
+  "id_sptag": "2020976573",
+  "index_page": 0,
+  "name_cl_sptag": "Rena Geminis",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1382567205",
+  "hc_lt_nortag": "-434510699",
+  "hc_lt_sptag": "-1860363470",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "633324312",
+      "hc_lt_id_sptag": "921831688",
+      "id_img": "MagusTale_215724_crop2608_700165533",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiKSoG1eOfAGUlggyxAANHF8IDmqUNkZ/yqSzeZUNiJpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiKSoG1eOfAGUlggyxAANHf61YxU/G1tp6KRG8xVqPj5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2138097038",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "-1165766878",
+        "1078827483",
+        "-1462397115",
+        "2020976573"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "633324312",
+      "hc_lt_id_sptag": "360514655",
+      "id_img": "MagusTale_215731_crop2608_-623779719",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSEUlGqbhECOGIjiQ9/UWJSYOf31bpRVMyFvlvZA5xvJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSEUlGqbhECOGIjiQ9/UWJyr+daS/fxjLotXUtS67IXZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2138097038",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-1230434216",
+        "-353024394",
+        "-1165766878",
+        "1078827483",
+        "-1462397115",
+        "2020976573"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "633324312",
+      "hc_lt_id_sptag": "192618963",
+      "id_img": "MagusTale_215731_crop2608_1169363148",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5/v5t86HOItlJWl+SkvVGCP5hvrv1D80p2l5rKMyiRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5/v5t86HOItlJWl+SkvVGdsafUpBVhL173GR4z5eiGpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2138097038",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-1230434216",
+        "-353024394",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "-1462397115",
+        "2020976573"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "2138097038",
+      "name_cl_nortag": "Magus Tale",
+      "total_img": 26,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1915687819",
+      "name_cl_sptag": "Girls Eyes Red",
+      "name_parent": "Anime",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-1462397115",
+      "name_cl_sptag": "Nina Geminis",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "2020976573",
+      "name_cl_sptag": "Rena Geminis",
+      "name_parent": "Anime",
+      "total": 3
+    }
+  ]
+}

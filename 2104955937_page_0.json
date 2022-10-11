@@ -1,0 +1,99 @@
+{
+  "id_sptag": "2104955937",
+  "index_page": 0,
+  "name_cl_sptag": "Minase Yukari",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "2084300803",
+  "hc_lt_nortag": "92104876",
+  "hc_lt_sptag": "-1127964238",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1171853146",
+      "hc_lt_id_sptag": "500677631",
+      "id_img": "LunarisFilia_853346_crop2608_-1437450193",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicE4f+9dBEfyzmBY5IrR8n6BBLWMjfBv18Jy18mPt1LoJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicE4f+9dBEfyzmBY5IrR8n6G2urD/6EmuGcuEhRg1FQc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2072971974",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2104955937",
+        "-729883027",
+        "-353024394",
+        "-1686571485"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1172638200",
+      "hc_lt_id_sptag": "-1263151226",
+      "id_img": "LunarisFilia_853318_crop2608_-1185711340",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicumjUV0brkIfH10ZByrld2SbR/RWJyaMGzTa40HxtfXpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicumjUV0brkIfH10ZByrld2RjOJ6/76p7h8/C0+Yb4gkZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2072971974"
+      ],
+      "lt_id_sptag": [
+        "2104955937"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-2072971974",
+      "name_cl_nortag": "Lunaris Filia",
+      "total_img": 7,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-729883027",
+      "name_cl_sptag": "Girls Eyes Violet",
+      "name_parent": "Anime",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "2104955937",
+      "name_cl_sptag": "Minase Yukari",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

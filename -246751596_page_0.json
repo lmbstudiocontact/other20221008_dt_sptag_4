@@ -1,0 +1,142 @@
+{
+  "id_sptag": "-246751596",
+  "index_page": 0,
+  "name_cl_sptag": "Momoshiki Otsutsuki",
+  "name_parent": "Anime",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "949563430",
+  "hc_lt_nortag": "2063018454",
+  "hc_lt_sptag": "1414787132",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "129982860",
+      "hc_lt_id_sptag": "1974097878",
+      "id_img": "Boruto_810561_crop2608_650263519",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3V/gX8WOsoyIJUd3fZOojXNqpg268IZRDhkbpvvlY9ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3V/gX8WOsoyIJUd3fZOojl7U9NFy9Tvw87yGuLw/j8ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1210198396"
+      ],
+      "lt_id_sptag": [
+        "-1985535450",
+        "120588791",
+        "-246751596",
+        "447334471",
+        "636212748"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1698608765",
+      "hc_lt_id_sptag": "-1989105179",
+      "id_img": "Boruto_810337_crop2608_-69377082",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrl60RpDtj9Y+K2ZG/5xKXhi0RJzC/sCrM7I5N+eppEpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrl60RpDtj9Y+K2ZG/5xKXN1V9rjEcuvzfgDo/bZ5qopVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1210198396",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-246751596"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1698608765",
+      "hc_lt_id_sptag": "-1989105179",
+      "id_img": "Boruto_810349_crop2608_-1859774937",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8sIsK3hyG1LR1tjCA+VMinbnVjdaeTpPbDlHdQ8Sv85Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8sIsK3hyG1LR1tjCA+VMiPJPjcqSJnktc/xwIQ5wnGpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1210198396",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-246751596"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1698608765",
+      "hc_lt_id_sptag": "-1989105179",
+      "id_img": "Boruto_810347_crop2608_-579911259",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidubmECDZQ++LatHQduSiggAMijUWuo74b3d/hT0W5i/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidubmECDZQ++LatHQduSiggwaKP32npbh3nk+rpwMZGWpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1210198396",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-246751596"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1210198396",
+      "name_cl_nortag": "Boruto",
+      "total_img": 158,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1985535450",
+      "name_cl_sptag": "Boruto Uzumaki",
+      "name_parent": "Anime",
+      "total": 112
+    },
+    {
+      "id_sptag": "-246751596",
+      "name_cl_sptag": "Momoshiki Otsutsuki",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "636212748",
+      "name_cl_sptag": "Naruto Uzumaki",
+      "name_parent": "Anime",
+      "total": 292
+    },
+    {
+      "id_sptag": "447334471",
+      "name_cl_sptag": "Sarada Uchiha",
+      "name_parent": "Anime",
+      "total": 51
+    },
+    {
+      "id_sptag": "120588791",
+      "name_cl_sptag": "Sasuke Uchiha",
+      "name_parent": "Anime",
+      "total": 154
+    }
+  ]
+}

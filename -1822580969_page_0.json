@@ -1,0 +1,515 @@
+{
+  "id_sptag": "-1822580969",
+  "index_page": 0,
+  "name_cl_sptag": "Murakumo Kancolle",
+  "name_parent": "Anime",
+  "total_img": 12,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1217763842",
+  "hc_lt_nortag": "947911280",
+  "hc_lt_sptag": "1651032719",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "998423457",
+      "id_img": "KantaiCollection_820019_crop2608_1485825028",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifm+TZF6V9mTO+JPRqMjMqYJYvzLo+at4bL4VzUNT5repVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifm+TZF6V9mTO+JPRqMjMqYDmmOacYKICwcfY6WK/1WHZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1799856386",
+        "-1822580969",
+        "-353024394",
+        "538504409",
+        "-1686571485",
+        "1537102876",
+        "-1695626511",
+        "1508952095",
+        "1813151526",
+        "-260062140",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "-1712461653",
+      "id_img": "KantaiCollection_895408_crop2608_1248622775",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQuKmXbHoztu1A1hmKezUMmyAqDJMPF4R80chX6zNO5pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQuKmXbHoztu1A1hmKezUM3il1MRaCbq0x2uY5HVvSb5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1937610099",
+        "-1822580969",
+        "1541647243",
+        "-1823594757",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "-931976875",
+      "id_img": "KantaiCollection_723479_crop2608_-1093227219",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyGREFmgTgJKoK9QVe3aJWMXcePPl7+3P8zhAw6S9GZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyGREFmgTgJKoK9QVe3aJWaTEfSZ5bUnZxhqYjwD8zY5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-1822580969",
+        "-353024394",
+        "1568092380",
+        "-260062140",
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "1954218877",
+      "id_img": "KantaiCollection_820019_crop2608_-860868111",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCeA2/DQfwr4+e/uUuhYwDT0X64pKMdHx3PyStvF4jspVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCeA2/DQfwr4+e/uUuhYwD+FZbnGB1Kg5/R9vheuiKspVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "1545739930",
+        "-1799856386",
+        "-1822580969",
+        "-353024394",
+        "1537102876",
+        "-1695626511",
+        "1813151526",
+        "-260062140",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "-1395919270",
+      "id_img": "KantaiCollection_934314_crop2608_-990348981",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0SRx51O2dD4Be0i/Hn/MbNpRxVjji/lX39Gvc5k1qJpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0SRx51O2dD4Be0i/Hn/MbTZP89npcEsaO436su/18U5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "1755521698",
+        "-1822580969",
+        "-353024394",
+        "-260062140",
+        "-1823594757",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "1593714817",
+      "id_img": "KantaiCollection_896567_crop2608_1329070544",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg0cSqN6HH+o4Edcdmk7o14FmdSQp8nfhlliWgWwiWIpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg0cSqN6HH+o4Edcdmk7o15krX9xm16PLNRwfyo5QqDJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1937610099",
+        "-1230434216",
+        "1755521698",
+        "-1822580969",
+        "-353024394",
+        "-260062140",
+        "-1823594757",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "-485968954",
+      "id_img": "KantaiCollection_848106_crop2608_337592136",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgJNPlzdP/uWutFctjgVbTRgB9wMRyCFls7Uu0CVJsf5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgJNPlzdP/uWutFctjgVbTjQ0MJfJWWimydZUprpk9ipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-1230434216",
+        "-1822580969",
+        "-353024394",
+        "1541647243",
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "1920399073",
+      "id_img": "KantaiCollection_819534_crop2608_-416179731",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3Vd/4FABmaLRXwXvIk2n0K51P4lcItphblHMKca1UuZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3Vd/4FABmaLRXwXvIk2n0gwjJepEOzLY0QLbinNYYzJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1937610099",
+        "-1230434216",
+        "-1822580969",
+        "-353024394",
+        "-260062140",
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "649498915",
+      "id_img": "KantaiCollection_870253_crop2608_1814858204",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgKgMszGYFMtkUAOqKgcv53jpO/qQa48yX70crjl60S5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgKgMszGYFMtkUAOqKgcv5AiVoBbU0wSkR5ih6dHFuFJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1937610099",
+        "1755521698",
+        "-1822580969",
+        "-353024394",
+        "1568092380",
+        "1541647243",
+        "1846426926",
+        "-260062140",
+        "-1823594757",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "1057805862",
+      "id_img": "KantaiCollection_847835_crop2608_1812301884",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+vzLAPDMjUXLgqt/9cbR2gJca5FaZM4e38Kd2cq5SJpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+vzLAPDMjUXLgqt/9cbR2LDxz0SfHyYUsGK5tCMqWgJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1822580969",
+        "-353024394",
+        "-1092439432",
+        "-1450260536",
+        "-1176638482",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "1271759786",
+      "id_img": "KantaiCollection_955202_crop2608_1055690378",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSeJz04BntxoMi5lb/Yop5t+Xjf25SFC2kGOcCjwTsl5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSeJz04BntxoMi5lb/Yop5OmVfc7sqA+WwmCaR6izDbpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "177416588",
+        "-1822580969",
+        "-353024394",
+        "-260062140",
+        "-1823594757",
+        "768898453",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "-690179539",
+      "id_img": "KantaiCollection_707069_crop2608_1779971058",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid79m5ajKO95tMTErcdht2i35zriGbYgJt14xoS4pYHopVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid79m5ajKO95tMTErcdht2ib12E/mXYf8JoJworrKGwiZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1937610099",
+        "-1822580969",
+        "-353024394",
+        "-1092439432",
+        "1568092380",
+        "-1176638482",
+        "-260062140",
+        "-1823594757",
+        "1078827483"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "579558099",
+      "name_cl_nortag": "Kantai Collection",
+      "total_img": 1036,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1176638482",
+      "name_cl_sptag": "Dark Black",
+      "name_parent": "Anime",
+      "total": 4051
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1092439432",
+      "name_cl_sptag": "Girls Dark",
+      "name_parent": "Anime",
+      "total": 3468
+    },
+    {
+      "id_sptag": "1846426926",
+      "name_cl_sptag": "Girls Ears Neko",
+      "name_parent": "Anime",
+      "total": 7031
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "1568092380",
+      "name_cl_sptag": "Girls Eyes Orange",
+      "name_parent": "Anime",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1915687819",
+      "name_cl_sptag": "Girls Eyes Red",
+      "name_parent": "Anime",
+      "total": 12697
+    },
+    {
+      "id_sptag": "1755521698",
+      "name_cl_sptag": "Girls Eyes Yellow",
+      "name_parent": "Anime",
+      "total": 6605
+    },
+    {
+      "id_sptag": "538504409",
+      "name_cl_sptag": "Girls Hair 2 Color",
+      "name_parent": "Anime",
+      "total": 1686
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1937610099",
+      "name_cl_sptag": "Girls Hair Grey",
+      "name_parent": "Anime",
+      "total": 9239
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "768898453",
+      "name_cl_sptag": "Girls Scarf",
+      "name_parent": "Anime",
+      "total": 3306
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1508952095",
+      "name_cl_sptag": "Girls Water Rain",
+      "name_parent": "Anime",
+      "total": 2954
+    },
+    {
+      "id_sptag": "1537102876",
+      "name_cl_sptag": "Kuma Kancolle",
+      "name_parent": "Anime",
+      "total": 17
+    },
+    {
+      "id_sptag": "-1822580969",
+      "name_cl_sptag": "Murakumo Kancolle",
+      "name_parent": "Anime",
+      "total": 12
+    },
+    {
+      "id_sptag": "-1799856386",
+      "name_cl_sptag": "Naganami Kancolle",
+      "name_parent": "Anime",
+      "total": 10
+    },
+    {
+      "id_sptag": "-1695626511",
+      "name_cl_sptag": "Ooi Kancolle",
+      "name_parent": "Anime",
+      "total": 11
+    },
+    {
+      "id_sptag": "177416588",
+      "name_cl_sptag": "Skirt",
+      "name_parent": "Anime",
+      "total": 368
+    }
+  ]
+}
