@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "2007363172",
+  "hc_lt_data_img": "-372634629",
   "hc_lt_nortag": "2004229154",
-  "hc_lt_sptag": "-863583871",
+  "hc_lt_sptag": "760510640",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "493787276",
-      "hc_lt_id_sptag": "1495964622",
+      "hc_lt_id_sptag": "1707183400",
       "id_img": "ReZEROStartingLifeinAnotherWorld_811311_crop2608_112881729",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNm5VKBi0xFDq176l3AkQNQksJh8fKdXtmV+Hwf3B4qJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNm5VKBi0xFDq176l3AkQNvrQk16/ZWNAYtSDgsPzSVJVy4706IhQgSYlgwrgVRHU=",
@@ -33,6 +33,7 @@
       ],
       "lt_id_sptag": [
         "978219799",
+        "1728965817",
         "-213893890"
       ]
     }
@@ -52,6 +53,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "978219799",
       "name_cl_sptag": "Otto Suwen",

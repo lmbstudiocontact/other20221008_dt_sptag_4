@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-447877172",
+  "hc_lt_data_img": "-1603574379",
   "hc_lt_nortag": "-1807561292",
-  "hc_lt_sptag": "688491120",
+  "hc_lt_sptag": "-1982381665",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1905741899",
-      "hc_lt_id_sptag": "-1581715257",
+      "hc_lt_id_sptag": "1926595243",
       "id_img": "FateGrandOrder_934455_crop2608_352170461",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5I7Ak+LIXnFW585U2G5ckxQjbJHXi7HcgL6qu/M4OjpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5I7Ak+LIXnFW585U2G5ckT3jNLV1Demqw9/6rym6Lp5Vy4706IhQgSYlgwrgVRHU=",
@@ -33,7 +33,8 @@
       ],
       "lt_id_sptag": [
         "-617867036",
-        "-106090161"
+        "-106090161",
+        "1728965817"
       ]
     }
   ],
@@ -52,6 +53,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "-106090161",
       "name_cl_sptag": "Oryou FateKOHAACE",

@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-272074609",
+  "hc_lt_data_img": "2132199284",
   "hc_lt_nortag": "1997112145",
-  "hc_lt_sptag": "-574857121",
+  "hc_lt_sptag": "-1886456262",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1627992382",
-      "hc_lt_id_sptag": "1573951408",
+      "hc_lt_id_sptag": "-363094466",
       "id_img": "FateZero_622412_crop2608_241682922",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQWinhKztIymsy1G6dxkGexnNn7h6RIbAJzQHWyFOQ/JVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQWinhKztIymsy1G6dxkGewLWSTSXNFglWIrW0h4gZOpVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "-1895834835"
       ],
       "lt_id_sptag": [
+        "-1680016906",
         "1713085875"
       ]
     }
@@ -56,6 +57,12 @@
       "name_cl_sptag": "Rider FateZero",
       "name_parent": "Anime",
       "total": 1
+    },
+    {
+      "id_sptag": "-1680016906",
+      "name_cl_sptag": "Scenery Arts",
+      "name_parent": "Anime",
+      "total": 2036
     }
   ]
 }

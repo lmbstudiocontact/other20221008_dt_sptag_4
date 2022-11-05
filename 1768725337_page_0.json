@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-809010004",
+  "hc_lt_data_img": "1099651198",
   "hc_lt_nortag": "1633941465",
-  "hc_lt_sptag": "102026431",
+  "hc_lt_sptag": "1726120942",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1619797159",
-      "hc_lt_id_sptag": "-2032741909",
+      "hc_lt_id_sptag": "-912572261",
       "id_img": "TheiDOLMSTER_620634_crop2608_-243921406",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvMTbCWcJ6idCmNKhpoASKCAzBxMHj4GmKIXEOXLK825Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvMTbCWcJ6idCmNKhpoASKd4sxppfQZyprMSJIAfgeoJVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "1292828749"
       ],
       "lt_id_sptag": [
+        "1728965817",
         "-391559864",
         "1768725337"
       ]
@@ -52,6 +53,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "-391559864",
       "name_cl_sptag": "Makoto Kikuchi",

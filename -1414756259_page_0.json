@@ -20,10 +20,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1380198835",
-      "hc_lt_id_sptag": "2109432413",
-      "id_img": "2020-Porsche-Taycan-V5-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYv14HS3595tnfA94GhIRK/+FlIjkysLPtlV6IsuNJ0pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYv14HS3595tnfA94GhIRKikkWoIpIJ+EIRGEr3+QJCpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-808159235",
+      "id_img": "2020-Porsche-Taycan-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidh9MrOujCjTHCFvgvhpufngxzINeMKPc0ZO9uhzALKDZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidh9MrOujCjTHCFvgvhpufn/Xf9buNjwNH/BZm+2yTiH5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -32,7 +32,7 @@
       ],
       "lt_id_sptag": [
         "-1414756259",
-        "1896912288",
+        "-1612000988",
         "-1924727691"
       ]
     },
@@ -58,44 +58,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1380198835",
-      "hc_lt_id_sptag": "-389036727",
-      "id_img": "2020-Porsche-Taycan-V10-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXhoEWLuyUV8D27WrZGp/+FZzQBE2XmlDS0kMfqHuDQZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXhoEWLuyUV8D27WrZGp/+p7k3gxwBCvhLhcft24h39pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1345000825"
-      ],
-      "lt_id_sptag": [
-        "-1414756259",
-        "-1136584694",
-        "-1924727691"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1380198835",
-      "hc_lt_id_sptag": "-808159235",
-      "id_img": "2020-Porsche-Taycan-V1-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidh9MrOujCjTHCFvgvhpufngxzINeMKPc0ZO9uhzALKDZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidh9MrOujCjTHCFvgvhpufn/Xf9buNjwNH/BZm+2yTiH5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1345000825"
-      ],
-      "lt_id_sptag": [
-        "-1414756259",
-        "-1612000988",
-        "-1924727691"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1380198835",
       "hc_lt_id_sptag": "-1110197659",
       "id_img": "2020-Porsche-Taycan-V13-2160_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifb3gBJYVHtI0RZrzLg29ujSFheVhus35XqzA1t0oBHBJVy4706IhQgSYlgwrgVRHU=",
@@ -110,6 +72,44 @@
         "-1414756259",
         "-1924727691",
         "-1726125209"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1380198835",
+      "hc_lt_id_sptag": "2109432413",
+      "id_img": "2020-Porsche-Taycan-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYv14HS3595tnfA94GhIRK/+FlIjkysLPtlV6IsuNJ0pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYv14HS3595tnfA94GhIRKikkWoIpIJ+EIRGEr3+QJCpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1345000825"
+      ],
+      "lt_id_sptag": [
+        "-1414756259",
+        "1896912288",
+        "-1924727691"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1380198835",
+      "hc_lt_id_sptag": "-389036727",
+      "id_img": "2020-Porsche-Taycan-V10-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXhoEWLuyUV8D27WrZGp/+FZzQBE2XmlDS0kMfqHuDQZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXhoEWLuyUV8D27WrZGp/+p7k3gxwBCvhLhcft24h39pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1345000825"
+      ],
+      "lt_id_sptag": [
+        "-1414756259",
+        "-1136584694",
+        "-1924727691"
       ]
     }
   ],

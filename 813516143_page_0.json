@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1144748032",
+  "hc_lt_data_img": "-1544490496",
   "hc_lt_nortag": "2004229154",
-  "hc_lt_sptag": "566801138",
+  "hc_lt_sptag": "-783609405",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -21,9 +21,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1288936764",
       "hc_lt_id_sptag": "-1292259607",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_1716715899",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In75I/syXmn7Wt8U2wnWfno8pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In7JtUskuRoZfeDukOulBEmYZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_552126346",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlTjH9w6n4SfmMPVNqsNRTCTZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlT8YpD8Rm4oMmuVWp+SzUZ0JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -53,11 +53,43 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "493787276",
+      "hc_lt_id_sptag": "5804240",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_724058_crop2608_-137826272",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictlFAbUfh6fr3iYxMj32e8QGWAJUZ2Ed+cKTXq2QMjvZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictlFAbUfh6fr3iYxMj32e8kKsqS0wuDFtH2hLjG6jGwZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-274114340"
+      ],
+      "lt_id_sptag": [
+        "1678943469",
+        "948198873",
+        "836047982",
+        "2035962830",
+        "-1907464970",
+        "1728965817",
+        "-353696101",
+        "-1741330149",
+        "-1970676800",
+        "80287461",
+        "813516143",
+        "2028695260",
+        "-172225030",
+        "-1696996399",
+        "-431326511"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1288936764",
       "hc_lt_id_sptag": "-1292259607",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_552126346",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlTjH9w6n4SfmMPVNqsNRTCTZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlT8YpD8Rm4oMmuVWp+SzUZ0JVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_1716715899",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In75I/syXmn7Wt8U2wnWfno8pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In7JtUskuRoZfeDukOulBEmYZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -118,37 +150,6 @@
         "-431326511",
         "1849316223"
       ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "493787276",
-      "hc_lt_id_sptag": "222119086",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_724058_crop2608_-137826272",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictlFAbUfh6fr3iYxMj32e8QGWAJUZ2Ed+cKTXq2QMjvZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictlFAbUfh6fr3iYxMj32e8kKsqS0wuDFtH2hLjG6jGwZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-274114340"
-      ],
-      "lt_id_sptag": [
-        "1678943469",
-        "948198873",
-        "836047982",
-        "2035962830",
-        "-1907464970",
-        "-353696101",
-        "-1741330149",
-        "-1970676800",
-        "80287461",
-        "813516143",
-        "2028695260",
-        "-172225030",
-        "-1696996399",
-        "-431326511"
-      ]
     }
   ],
   "lt_nortag": [
@@ -183,6 +184,12 @@
       "name_cl_sptag": "Beatrice ReZERO",
       "name_parent": "Anime",
       "total": 52
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-1696996399",

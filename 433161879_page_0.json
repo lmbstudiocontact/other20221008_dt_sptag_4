@@ -55,6 +55,30 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "1368110828",
+      "id_img": "MonogatariSeries_742131_crop2608_469776787",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic227Se48wdqKpON5Z9obWuwUtT7SajZtIMS2Xt08UjiZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic227Se48wdqKpON5Z9obWuO3JMe4pTzieRY0sBpSfACZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-1686571485",
+        "-899599709",
+        "1078827483",
+        "-12671930",
+        "1410951528",
+        "433161879"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1144286106",
       "hc_lt_id_sptag": "-273562459",
       "id_img": "MonogatariSeries_775908_crop2608_-739285939",
@@ -77,30 +101,6 @@
         "-12671930",
         "-2005207632",
         "-1021518548",
-        "433161879"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "1368110828",
-      "id_img": "MonogatariSeries_742131_crop2608_469776787",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic227Se48wdqKpON5Z9obWuwUtT7SajZtIMS2Xt08UjiZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic227Se48wdqKpON5Z9obWuO3JMe4pTzieRY0sBpSfACZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-1686571485",
-        "-899599709",
-        "1078827483",
-        "-12671930",
-        "1410951528",
         "433161879"
       ]
     },

@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1346356416",
+  "hc_lt_data_img": "-2086912522",
   "hc_lt_nortag": "-868287576",
-  "hc_lt_sptag": "1855156165",
+  "hc_lt_sptag": "439597270",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-648109110",
-      "hc_lt_id_sptag": "-1990243763",
+      "hc_lt_id_sptag": "-1909123713",
       "id_img": "ReZEROStartingLifeinAnotherWorld_975936_crop2608_990518443",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxlMXEFDlnt8u5/cOcjn8v+32eusiCeA4RGE6ukOqVqpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxlMXEFDlnt8u5/cOcjn8vblzxOVlu0b59yo7ByVLfN5Vy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "-274114340"
       ],
       "lt_id_sptag": [
+        "-1680016906",
         "-892828046",
         "-213893890"
       ]
@@ -57,6 +58,12 @@
       "name_cl_sptag": "Satella ReZero",
       "name_parent": "Anime",
       "total": 1
+    },
+    {
+      "id_sptag": "-1680016906",
+      "name_cl_sptag": "Scenery Arts",
+      "name_parent": "Anime",
+      "total": 2036
     },
     {
       "id_sptag": "-213893890",

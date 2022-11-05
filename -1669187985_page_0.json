@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "158916687",
+  "hc_lt_data_img": "-548546358",
   "hc_lt_nortag": "-639283810",
-  "hc_lt_sptag": "-562297704",
+  "hc_lt_sptag": "-411210425",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -41,25 +41,6 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "485005383",
-      "hc_lt_id_sptag": "1963839524",
-      "id_img": "Noragami_955436_crop2608_23789705",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwrxeYi/bihxLREvcVGMhhd6WE7atxz8OsTS899jK2y5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwrxeYi/bihxLREvcVGMhhKmG37HiNSH0N55OT39gJ/5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "402664479"
-      ],
-      "lt_id_sptag": [
-        "-819441842",
-        "-1669187985"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-100972981",
       "hc_lt_id_sptag": "96975093",
       "id_img": "Noragami_707587_crop2608_-917123871",
@@ -82,6 +63,26 @@
         "1526533345",
         "1078827483",
         "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "485005383",
+      "hc_lt_id_sptag": "169643758",
+      "id_img": "Noragami_955436_crop2608_23789705",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwrxeYi/bihxLREvcVGMhhd6WE7atxz8OsTS899jK2y5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwrxeYi/bihxLREvcVGMhhKmG37HiNSH0N55OT39gJ/5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "402664479"
+      ],
+      "lt_id_sptag": [
+        "-819441842",
+        "-1669187985",
+        "1728965817"
       ]
     },
     {
@@ -131,6 +132,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "-899599709",
       "name_cl_sptag": "Girls Eyes Black",

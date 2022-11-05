@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1478553281",
+  "hc_lt_data_img": "-1911343822",
   "hc_lt_nortag": "-1052060528",
-  "hc_lt_sptag": "-208540861",
+  "hc_lt_sptag": "1382315072",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1407927577",
-      "hc_lt_id_sptag": "-1360150426",
+      "hc_lt_id_sptag": "1035060331",
       "id_img": "FairyTail_638504_crop2608_1475831210",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1zp89Ej+u7cPi07q9hchUj18axHnQs4u0oWvKTLkx7JVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1zp89Ej+u7cPi07q9hchUdg60wC+JcZ5Aj7C4ACoDkZVy4706IhQgSYlgwrgVRHU=",
@@ -33,6 +33,7 @@
       ],
       "lt_id_sptag": [
         "-1936986648",
+        "-467032699",
         "-584780367",
         "-88648726",
         "-1099525957",
@@ -60,6 +61,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-1575800240",
       "name_cl_sptag": "Charles Fairy Tail",

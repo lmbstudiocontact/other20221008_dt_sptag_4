@@ -20,10 +20,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1662551372",
-      "hc_lt_id_sptag": "-245392079",
-      "id_img": "KantaiCollection_826310_crop2608_1290935160",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidejysm8RtnbvxXeOwE9zCYHPwA0T7aAmRA/n/zbV/5FpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidejysm8RtnbvxXeOwE9zCYzpzhg8RGdSEpQtmLIVUKLZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-2096371239",
+      "id_img": "KantaiCollection_826310_crop2608_828529765",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif494Qn2LnkeSS5ON3N3PpDqhC1resn83F37JurJcg+QJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif494Qn2LnkeSS5ON3N3PpDJCbgEap5ZraGuIyB/RXlJZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -32,16 +32,17 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
+        "-1915687819",
         "-1230434216",
         "-735363779",
         "-1546073662",
-        "-353024394",
         "1541647243",
         "384779790",
         "1813151526",
         "-993340900",
         "1078827483",
-        "491824726"
+        "491824726",
+        "1410951528"
       ]
     },
     {
@@ -74,10 +75,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1662551372",
-      "hc_lt_id_sptag": "-2096371239",
-      "id_img": "KantaiCollection_826310_crop2608_828529765",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif494Qn2LnkeSS5ON3N3PpDqhC1resn83F37JurJcg+QJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif494Qn2LnkeSS5ON3N3PpDJCbgEap5ZraGuIyB/RXlJZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-245392079",
+      "id_img": "KantaiCollection_826310_crop2608_1290935160",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidejysm8RtnbvxXeOwE9zCYHPwA0T7aAmRA/n/zbV/5FpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidejysm8RtnbvxXeOwE9zCYzpzhg8RGdSEpQtmLIVUKLZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -86,17 +87,16 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
-        "-1915687819",
         "-1230434216",
         "-735363779",
         "-1546073662",
+        "-353024394",
         "1541647243",
         "384779790",
         "1813151526",
         "-993340900",
         "1078827483",
-        "491824726",
-        "1410951528"
+        "491824726"
       ]
     }
   ],

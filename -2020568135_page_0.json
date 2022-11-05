@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1737172238",
+  "hc_lt_data_img": "-1595394803",
   "hc_lt_nortag": "-862218315",
-  "hc_lt_sptag": "1707371803",
+  "hc_lt_sptag": "789936638",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-924890430",
-      "hc_lt_id_sptag": "-1971970054",
+      "hc_lt_id_sptag": "-506273177",
       "id_img": "Naruto_327127_crop2608_-1235195906",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicluPjCaX0VT18+zStnjb+1dgV0PmgfPkagPRf4pPpYEJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicluPjCaX0VT18+zStnjb+1l2c4w2OB2r4fmfck1ExYhpVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "-273690518"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-2020568135",
         "319237405"
       ]
@@ -43,25 +44,6 @@
       "id_img": "Naruto_216841_crop2608_421961214",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidevxU4RERfnTn5WigFgAToasGuzcZwocCI/lS5rODUtJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidevxU4RERfnTn5WigFgAToWJcFUWzQngUaGTIxnzAOKZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-273690518"
-      ],
-      "lt_id_sptag": [
-        "-2020568135",
-        "235131583",
-        "319237405"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "551849679",
-      "hc_lt_id_sptag": "-1358426291",
-      "id_img": "Naruto_215797_crop2608_-2031570753",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLad2oed/VhdeLxtylCBv1aHxTKrrQZpjz9M7DP+L4ppVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLad2oed/VhdeLxtylCBv1XjXpt/k9w4kz0VslmUWq+JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -92,6 +74,25 @@
         "636212748",
         "-2020568135"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "551849679",
+      "hc_lt_id_sptag": "-1358426291",
+      "id_img": "Naruto_215797_crop2608_-2031570753",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLad2oed/VhdeLxtylCBv1aHxTKrrQZpjz9M7DP+L4ppVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLad2oed/VhdeLxtylCBv1XjXpt/k9w4kz0VslmUWq+JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-273690518"
+      ],
+      "lt_id_sptag": [
+        "-2020568135",
+        "235131583",
+        "319237405"
+      ]
     }
   ],
   "lt_nortag": [
@@ -109,6 +110,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "319237405",
       "name_cl_sptag": "Kurama Naruto",

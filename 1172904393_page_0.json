@@ -6,9 +6,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-2067011568",
+  "hc_lt_data_img": "11994320",
   "hc_lt_nortag": "-1153025923",
-  "hc_lt_sptag": "-2079507267",
+  "hc_lt_sptag": "-1178393044",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1299085452",
-      "hc_lt_id_sptag": "1786394593",
+      "hc_lt_id_sptag": "1615121123",
       "id_img": "DateALive_955891_crop2608_324910140",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUnICm3QL5GFjU9S04N6kbCi3QPUe0qP/TjwrUyFkSppVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUnICm3QL5GFjU9S04N6kbzCqndxXdI3+DytvVeqSgpZVy4706IhQgSYlgwrgVRHU=",
@@ -33,6 +33,34 @@
       ],
       "lt_id_sptag": [
         "492550141",
+        "1728965817",
+        "1172904393"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1850314428",
+      "hc_lt_id_sptag": "-271147197",
+      "id_img": "DateALive_795273_crop2608_-888705984",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVdh1Sgmp3/swWE1vMJRHJf4f4sievYH/lIuyXOLVtIZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVdh1Sgmp3/swWE1vMJRHJb9guRR3JX9n4GI96OQP8f5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-806183626",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1969845077",
+        "-1905670138",
+        "-729883027",
+        "-353024394",
+        "643795693",
+        "-1686571485",
+        "1764968111",
+        "1078827483",
+        "491824726",
         "1172904393"
       ]
     },
@@ -68,33 +96,6 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1850314428",
-      "hc_lt_id_sptag": "-271147197",
-      "id_img": "DateALive_795273_crop2608_-888705984",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVdh1Sgmp3/swWE1vMJRHJf4f4sievYH/lIuyXOLVtIZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVdh1Sgmp3/swWE1vMJRHJb9guRR3JX9n4GI96OQP8f5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-806183626",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1969845077",
-        "-1905670138",
-        "-729883027",
-        "-353024394",
-        "643795693",
-        "-1686571485",
-        "1764968111",
-        "1078827483",
-        "491824726",
-        "1172904393"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1850314428",
       "hc_lt_id_sptag": "-169422555",
       "id_img": "DateALive_795273_crop2608_586629",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKZBf4OsAJ5Q1vsPjDhEPmqGm2+6+YH6x/VFxnP003v5Vy4706IhQgSYlgwrgVRHU=",
@@ -122,7 +123,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1299085452",
-      "hc_lt_id_sptag": "1786394593",
+      "hc_lt_id_sptag": "1615121123",
       "id_img": "DateALive_955891_crop2608_-1032019191",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAm5O+oXvI8xjgkY03vLLr9E5plxTwOmk9g4lAQVwcb5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAm5O+oXvI8xjgkY03vLLrcfhMBXIi26+D0cKEBRNtsJVy4706IhQgSYlgwrgVRHU=",
@@ -135,6 +136,7 @@
       ],
       "lt_id_sptag": [
         "492550141",
+        "1728965817",
         "1172904393"
       ]
     }
@@ -160,6 +162,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "491824726",
       "name_cl_sptag": "Girls Cute Cool",

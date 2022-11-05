@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1802070562",
+  "hc_lt_data_img": "-1661058980",
   "hc_lt_nortag": "-1815959110",
-  "hc_lt_sptag": "540571018",
+  "hc_lt_sptag": "1084688171",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -52,7 +52,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1428677737",
-      "hc_lt_id_sptag": "1592153228",
+      "hc_lt_id_sptag": "-1237117191",
       "id_img": "Original_903044_crop2608_-1133523394",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKkLDIFkpOB8pUcq56hg3TA/Tk06UUa8H9eS70OpH7LZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKkLDIFkpOB8pUcq56hg3Ty7vMnleOA/a5B8Se/cKYP5Vy4706IhQgSYlgwrgVRHU=",
@@ -64,6 +64,7 @@
         "-1556851449"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "728754529",
         "-24750364"
       ]
@@ -107,6 +108,12 @@
       "name_cl_sptag": "Aqua Hair",
       "name_parent": "Anime",
       "total": 19
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1618542459",

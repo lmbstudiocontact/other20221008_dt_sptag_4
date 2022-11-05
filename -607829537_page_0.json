@@ -6,9 +6,9 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-90326670",
+  "hc_lt_data_img": "1778031502",
   "hc_lt_nortag": "-621831892",
-  "hc_lt_sptag": "-183070009",
+  "hc_lt_sptag": "-1035854316",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,31 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1121628483",
-      "hc_lt_id_sptag": "-921678977",
-      "id_img": "ZombieLandSaga_978365_crop2608_2041093328",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK4iXy1EDL0X894WjDs3E83UTItgkkDD/JPVWmNCFSTJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK4iXy1EDL0X894WjDs3E8S5jx8+fxDfSfv6vIM0biU5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-173650436",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1915687819",
-        "81052085",
-        "-353024394",
-        "-260062140",
-        "1078827483",
-        "-607829537",
-        "-1358769180",
-        "121026985"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1121628483",
@@ -73,7 +48,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1423670294",
-      "hc_lt_id_sptag": "1903305225",
+      "hc_lt_id_sptag": "426565116",
       "id_img": "ZombieLandSaga_973378_crop2608_-1846325545",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYKLmJgif/LoIRR3PuQlXMDL4ohThuCkXy0bHyAGJa/pVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYKLmJgif/LoIRR3PuQlXM/iwtJU6RmIBgcpmkKIJHHJVy4706IhQgSYlgwrgVRHU=",
@@ -85,35 +60,8 @@
         "-467032699"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-607829537"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1121628483",
-      "hc_lt_id_sptag": "1382913949",
-      "id_img": "ZombieLandSaga_975839_crop2608_-2076224365",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7i9n0YhbmKPmGpM0xkX+K4lzL2gQFQ4NOj2W/2ezO75Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7i9n0YhbmKPmGpM0xkX+K1wTYLJuecbwxc07uMGdb+5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-173650436",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1271392973",
-        "-1915687819",
-        "-353024394",
-        "-1450260536",
-        "1813151526",
-        "-260062140",
-        "-1823594757",
-        "1078827483",
-        "-607829537",
-        "1410951528",
-        "121026985"
       ]
     },
     {
@@ -146,8 +94,33 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1121628483",
+      "hc_lt_id_sptag": "-921678977",
+      "id_img": "ZombieLandSaga_978365_crop2608_2041093328",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK4iXy1EDL0X894WjDs3E83UTItgkkDD/JPVWmNCFSTJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK4iXy1EDL0X894WjDs3E8S5jx8+fxDfSfv6vIM0biU5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-173650436",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "81052085",
+        "-353024394",
+        "-260062140",
+        "1078827483",
+        "-607829537",
+        "-1358769180",
+        "121026985"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1423670294",
-      "hc_lt_id_sptag": "1903305225",
+      "hc_lt_id_sptag": "426565116",
       "id_img": "ZombieLandSaga_977786_crop2608_347953332",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieILoDedDWXSb2EmwXQxSTDMv4AaCh25ylw2cJCZlvYIpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieILoDedDWXSb2EmwXQxSTDdENwWuMmVUtB9vaphTbespVy4706IhQgSYlgwrgVRHU=",
@@ -159,7 +132,36 @@
         "-467032699"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-607829537"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1121628483",
+      "hc_lt_id_sptag": "1382913949",
+      "id_img": "ZombieLandSaga_975839_crop2608_-2076224365",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7i9n0YhbmKPmGpM0xkX+K4lzL2gQFQ4NOj2W/2ezO75Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7i9n0YhbmKPmGpM0xkX+K1wTYLJuecbwxc07uMGdb+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-173650436",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1915687819",
+        "-353024394",
+        "-1450260536",
+        "1813151526",
+        "-260062140",
+        "-1823594757",
+        "1078827483",
+        "-607829537",
+        "1410951528",
+        "121026985"
       ]
     }
   ],
@@ -189,6 +191,12 @@
       "name_cl_sptag": "Ai Mizuno",
       "name_parent": "Anime",
       "total": 4
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1915687819",

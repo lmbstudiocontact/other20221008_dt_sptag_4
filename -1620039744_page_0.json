@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-704790667",
+  "hc_lt_data_img": "-919459976",
   "hc_lt_nortag": "1858187141",
-  "hc_lt_sptag": "-1074018431",
+  "hc_lt_sptag": "374181872",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1453592066",
-      "hc_lt_id_sptag": "1543627165",
+      "hc_lt_id_sptag": "-1631170483",
       "id_img": "KarakaiJouzunoTakagisan_907666_crop2608_-771190870",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1HQIhmBXd6hBGzf8r4gYAhWuoSXcu/psoholmMKrLtpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1HQIhmBXd6hBGzf8r4gYARLZar/vZttNAlw/v83/JJpVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "1728965817"
       ],
       "lt_id_sptag": [
+        "1728965817",
         "2143899351",
         "-1620039744"
       ]
@@ -39,10 +40,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "902363090",
-      "hc_lt_id_sptag": "-1340774902",
-      "id_img": "KarakaiJouzunoTakagisan_957205_crop2608_-1462261918",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZTNZ/zlvqEdwrLtCkL50pX4U3F4smVvPnpovCHxiAKZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZTNZ/zlvqEdwrLtCkL50pQVObapEusT6oBOL/FIsfWJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1656006359",
+      "id_img": "KarakaiJouzunoTakagisan_957205_crop2608_-261201168",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRJpFtqKPhHDyLyjLyfJ/7EAfvqL54qJfQ2fgaVWchuZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRJpFtqKPhHDyLyjLyfJ/7ZpJc4pBOi7e8qpuATHxd85Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -54,12 +55,11 @@
         "1545739930",
         "750914149",
         "-1230434216",
-        "-353024394",
         "2143899351",
         "1813151526",
         "-1620039744",
         "1078827483",
-        "491824726"
+        "1410951528"
       ]
     },
     {
@@ -90,10 +90,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "902363090",
-      "hc_lt_id_sptag": "-1656006359",
-      "id_img": "KarakaiJouzunoTakagisan_957205_crop2608_-261201168",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRJpFtqKPhHDyLyjLyfJ/7EAfvqL54qJfQ2fgaVWchuZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRJpFtqKPhHDyLyjLyfJ/7ZpJc4pBOi7e8qpuATHxd85Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1340774902",
+      "id_img": "KarakaiJouzunoTakagisan_957205_crop2608_-1462261918",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZTNZ/zlvqEdwrLtCkL50pX4U3F4smVvPnpovCHxiAKZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZTNZ/zlvqEdwrLtCkL50pQVObapEusT6oBOL/FIsfWJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -105,11 +105,12 @@
         "1545739930",
         "750914149",
         "-1230434216",
+        "-353024394",
         "2143899351",
         "1813151526",
         "-1620039744",
         "1078827483",
-        "1410951528"
+        "491824726"
       ]
     }
   ],
@@ -134,6 +135,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "491824726",
       "name_cl_sptag": "Girls Cute Cool",

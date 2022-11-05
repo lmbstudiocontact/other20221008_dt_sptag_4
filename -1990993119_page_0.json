@@ -20,63 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-941757694",
-      "hc_lt_id_sptag": "1673103087",
-      "id_img": "2020-Rimac-C-Two-V1-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAszPDVu6SSUUbbjEuERdtq7FnvSqiKsjcj4mDf89KJpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAszPDVu6SSUUbbjEuERdtRcvNSyD7/x+CBkUNue6Z3JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1248968977"
-      ],
-      "lt_id_sptag": [
-        "1623687721",
-        "-1924727691",
-        "-1990993119"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-941757694",
-      "hc_lt_id_sptag": "1179798481",
-      "id_img": "2020-Rimac-C-Two-V8-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ8w9e9dFpBVCVzXRiMKvFsJZjdkdEA6aFJo0YWLHg8JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ8w9e9dFpBVCVzXRiMKvFJ06CwzKyLnNqvoCJNI+O65Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1248968977"
-      ],
-      "lt_id_sptag": [
-        "-1924727691",
-        "-1990993119",
-        "248093186"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-941757694",
-      "hc_lt_id_sptag": "-1817895508",
-      "id_img": "2020-Rimac-C-Two-V4-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCGn+E9K8GbC8NAYQSmjMzggau7YR1C+txHNDz/MIW35Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCGn+E9K8GbC8NAYQSmjMzE9c+xNzsIdyLMzkxsjx4g5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1248968977"
-      ],
-      "lt_id_sptag": [
-        "1034147206",
-        "-1924727691",
-        "-1990993119"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-941757694",
       "hc_lt_id_sptag": "-899448472",
       "id_img": "2020-Rimac-C-Two-V6-2000_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFkU4qlZ4bOHZ6SugSI5MEIfzEIL6/1S7NoE+EjWrhjJVy4706IhQgSYlgwrgVRHU=",
@@ -109,6 +52,63 @@
       "lt_id_sptag": [
         "-1924727691",
         "444606691",
+        "-1990993119"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-941757694",
+      "hc_lt_id_sptag": "1179798481",
+      "id_img": "2020-Rimac-C-Two-V8-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ8w9e9dFpBVCVzXRiMKvFsJZjdkdEA6aFJo0YWLHg8JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ8w9e9dFpBVCVzXRiMKvFJ06CwzKyLnNqvoCJNI+O65Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1248968977"
+      ],
+      "lt_id_sptag": [
+        "-1924727691",
+        "-1990993119",
+        "248093186"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-941757694",
+      "hc_lt_id_sptag": "1673103087",
+      "id_img": "2020-Rimac-C-Two-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAszPDVu6SSUUbbjEuERdtq7FnvSqiKsjcj4mDf89KJpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAszPDVu6SSUUbbjEuERdtRcvNSyD7/x+CBkUNue6Z3JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1248968977"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "-1924727691",
+        "-1990993119"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-941757694",
+      "hc_lt_id_sptag": "-1817895508",
+      "id_img": "2020-Rimac-C-Two-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCGn+E9K8GbC8NAYQSmjMzggau7YR1C+txHNDz/MIW35Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCGn+E9K8GbC8NAYQSmjMzE9c+xNzsIdyLMzkxsjx4g5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1248968977"
+      ],
+      "lt_id_sptag": [
+        "1034147206",
+        "-1924727691",
         "-1990993119"
       ]
     }

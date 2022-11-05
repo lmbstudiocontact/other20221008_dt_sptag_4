@@ -6,9 +6,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-932094717",
+  "hc_lt_data_img": "994309554",
   "hc_lt_nortag": "139575485",
-  "hc_lt_sptag": "1121377190",
+  "hc_lt_sptag": "-917522604",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,26 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-1390098982",
-      "id_img": "SnowWhitewiththeRedHair_654363_crop2608_1688339665",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEbZHSGaqeEt9CgiZ06mxqNJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEi1AhMynN+onh9KMF0GozBJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-1722210625"
-      ],
-      "lt_id_sptag": [
-        "-659743159",
-        "247350803",
-        "-55244798"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1776877702",
@@ -64,8 +44,29 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1744728045",
+      "hc_lt_id_sptag": "-662679343",
+      "id_img": "SnowWhitewiththeRedHair_654371_crop2608_1251499227",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqaNICGgyydTyyYtdL2PIRxKQjIqud179+Byob6qcL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqaNICGgyydTyyYtdL2PIneYoRVTqF5XUk4dDSDHKfZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1722210625"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1956034203",
+        "-1216236529",
+        "-659743159"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-1390098982",
+      "hc_lt_id_sptag": "-800444714",
       "id_img": "SnowWhitewiththeRedHair_654363_crop2608_482169726",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie33+xS1LZJLRKmQky9+ya749kOcN26EeYtNMOIfd8dA5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie33+xS1LZJLRKmQky9+ya7S3MC8jSRxuQ02CAD2B98MpVy4706IhQgSYlgwrgVRHU=",
@@ -79,13 +80,35 @@
       "lt_id_sptag": [
         "-659743159",
         "247350803",
+        "1728965817",
         "-55244798"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-1390098982",
+      "hc_lt_id_sptag": "-800444714",
+      "id_img": "SnowWhitewiththeRedHair_654363_crop2608_1688339665",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEbZHSGaqeEt9CgiZ06mxqNJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEi1AhMynN+onh9KMF0GozBJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1722210625"
+      ],
+      "lt_id_sptag": [
+        "-659743159",
+        "247350803",
+        "1728965817",
+        "-55244798"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1868648630",
+      "hc_lt_id_sptag": "-800444714",
       "id_img": "SnowWhitewiththeRedHair_654367_crop2608_-302958416",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezIyvFt4BAo8f9IpwQCG5j7WDZ1sBbahau73s5g8uqqpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezIyvFt4BAo8f9IpwQCG5jBd39xLDHzrruqen/G7O5vpVy4706IhQgSYlgwrgVRHU=",
@@ -99,27 +122,8 @@
       "lt_id_sptag": [
         "-659743159",
         "247350803",
+        "1728965817",
         "-55244798"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1744728045",
-      "hc_lt_id_sptag": "1145357726",
-      "id_img": "SnowWhitewiththeRedHair_654371_crop2608_1251499227",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqaNICGgyydTyyYtdL2PIRxKQjIqud179+Byob6qcL5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqaNICGgyydTyyYtdL2PIneYoRVTqF5XUk4dDSDHKfZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1722210625"
-      ],
-      "lt_id_sptag": [
-        "1956034203",
-        "-1216236529",
-        "-659743159"
       ]
     }
   ],
@@ -161,6 +165,18 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "1627623413",
